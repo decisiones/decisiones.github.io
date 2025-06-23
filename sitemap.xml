@@ -2,21 +2,21 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://decisiones.github.io/en/sitemap.xml</loc>
+    <loc>http://localhost:1313/en/sitemap.xml</loc>
     
       <lastmod>2025-06-22T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://decisiones.github.io/es/sitemap.xml</loc>
+    <loc>http://localhost:1313/es/sitemap.xml</loc>
     
       <lastmod>2025-06-22T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://decisiones.github.io/pt-br/sitemap.xml</loc>
+    <loc>http://localhost:1313/pt-br/sitemap.xml</loc>
     
       <lastmod>2025-06-22T00:00:00+00:00</lastmod>
     
