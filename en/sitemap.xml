@@ -2,76 +2,76 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/abstracts/</loc>
+    <loc>https://decisiones.github.io/en/abstracts/</loc>
     <lastmod>2025-06-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/abstracts/"
+                href="https://decisiones.github.io/es/abstracts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/abstracts/"
+                href="https://decisiones.github.io/pt-br/abstracts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/abstracts/"
+                href="https://decisiones.github.io/en/abstracts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/fieldtrip/</loc>
+    <loc>https://decisiones.github.io/en/fieldtrip/</loc>
     <lastmod>2025-06-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/fieldtrip/"
+                href="https://decisiones.github.io/es/fieldtrip/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/fieldtrip/"
+                href="https://decisiones.github.io/pt-br/fieldtrip/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/fieldtrip/"
+                href="https://decisiones.github.io/en/fieldtrip/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>https://decisiones.github.io/en/</loc>
     <lastmod>2025-06-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/"
+                href="https://decisiones.github.io/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/"
+                href="https://decisiones.github.io/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="https://decisiones.github.io/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/venue/</loc>
+    <loc>https://decisiones.github.io/en/venue/</loc>
     <lastmod>2025-06-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/venue/"
+                href="https://decisiones.github.io/es/venue/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/venue/"
+                href="https://decisiones.github.io/pt-br/venue/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/venue/"
+                href="https://decisiones.github.io/en/venue/"
                 />
   </url>
 </urlset>
