@@ -56,32 +56,59 @@
                 href="https://decisiones.github.io/en/"
                 />
   </url><url>
-    <loc>https://decisiones.github.io/en/trip1_pt-br/</loc>
+    <loc>https://decisiones.github.io/en/trip1/</loc>
     <lastmod>2025-06-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://decisiones.github.io/es/trip1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://decisiones.github.io/pt-br/trip1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://decisiones.github.io/en/trip1/"
+                />
   </url><url>
-    <loc>https://decisiones.github.io/en/trip1_es/</loc>
+    <loc>https://decisiones.github.io/en/trip2/</loc>
     <lastmod>2025-06-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://decisiones.github.io/es/trip2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://decisiones.github.io/pt-br/trip2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://decisiones.github.io/en/trip2/"
+                />
   </url><url>
-    <loc>https://decisiones.github.io/en/trip1_en/</loc>
+    <loc>https://decisiones.github.io/en/trip3/</loc>
     <lastmod>2025-06-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://decisiones.github.io/en/trip2_es/</loc>
-    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://decisiones.github.io/en/trip2_pt-br/</loc>
-    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://decisiones.github.io/en/trip2_en/</loc>
-    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://decisiones.github.io/en/trip3_en/</loc>
-    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://decisiones.github.io/en/trip3_es/</loc>
-    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://decisiones.github.io/en/trip3_pt-br/</loc>
-    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://decisiones.github.io/es/trip3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://decisiones.github.io/pt-br/trip3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://decisiones.github.io/en/trip3/"
+                />
   </url><url>
     <loc>https://decisiones.github.io/en/venue/</loc>
     <lastmod>2025-06-24T00:00:00+00:00</lastmod>

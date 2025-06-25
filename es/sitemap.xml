@@ -56,6 +56,24 @@
                 href="https://decisiones.github.io/es/"
                 />
   </url><url>
+    <loc>https://decisiones.github.io/es/trip1/</loc>
+    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://decisiones.github.io/en/trip1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://decisiones.github.io/pt-br/trip1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://decisiones.github.io/es/trip1/"
+                />
+  </url><url>
     <loc>https://decisiones.github.io/es/abstracts/</loc>
     <lastmod>2025-06-24T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -72,6 +90,42 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://decisiones.github.io/es/abstracts/"
+                />
+  </url><url>
+    <loc>https://decisiones.github.io/es/trip2/</loc>
+    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://decisiones.github.io/en/trip2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://decisiones.github.io/pt-br/trip2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://decisiones.github.io/es/trip2/"
+                />
+  </url><url>
+    <loc>https://decisiones.github.io/es/trip3/</loc>
+    <lastmod>2025-06-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://decisiones.github.io/en/trip3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://decisiones.github.io/pt-br/trip3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://decisiones.github.io/es/trip3/"
                 />
   </url>
 </urlset>
